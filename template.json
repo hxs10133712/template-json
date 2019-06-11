@@ -8,5 +8,10 @@
     "name": "vue-webpack-pc",
     "url": "github:ruichengping/vue-webpack-pc",
     "description": "基于webpack构建的vue项目模板"
+    },
+    {
+    "name": "vue-template",
+    "url": "https://github.com/hxs10133712/vue-template.git",
+    "description": "基于vue项目模板"
     }
 ]
