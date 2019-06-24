@@ -15,7 +15,7 @@
     "description": "测试模板"
     },
     {
-    "name": "vue-template",
+    "name": "test-cli",
     "url": "https://github.com/hxs10133712/test-cli.git",
     "description": "测试cli"
     }
